@@ -10,7 +10,7 @@
 ## Connect with me:
 - 🐦[Twitter](https://twitter.com/Adaldiaz99) 
 - 📷[Instagram](https://www.instagram.com/adaldiaz99/)
-- 💼[Linkeding](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
+- 💼[Linkedin](https://www.linkedin.com/in/adal-diaz-fari%C3%B1a-56748a18b/)
 
 ## Languages and Tools:
 
