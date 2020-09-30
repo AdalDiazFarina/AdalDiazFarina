@@ -14,18 +14,18 @@
 
 ## Languages and Tools:
 
-<div display="flex" justify-content="space-around">
-    <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-    <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    <img alt="PhP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-    <img alt="Photoshop" width="26px" src="https://seeklogo.com/images/P/photoshop-cs6-logo-E67E1EDDE0-seeklogo.com.png" />
-    <img alt="Ilustrator" width="26px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1.png" />
-    <img alt="AdobeXD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Adobe_Experience_Design_logo.svg/512px-Adobe_Experience_Design_logo.svg.png" />
+<div display="flex">
+    <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+    <img alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    <img alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    <img alt="PhP" width="36px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+    <img alt="Photoshop" width="36px" src="https://seeklogo.com/images/P/photoshop-cs6-logo-E67E1EDDE0-seeklogo.com.png" />
+    <img alt="Ilustrator" width="36px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1.png" />
+    <img alt="AdobeXD" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Adobe_Experience_Design_logo.svg/512px-Adobe_Experience_Design_logo.svg.png" />
 </div>
 
 
