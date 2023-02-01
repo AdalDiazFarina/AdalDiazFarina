@@ -4,8 +4,6 @@
 
 - 👨‍💻 I'm currently finishing my degree in computer engineering at the ULL
 - 💡 I took the EOI Fullstack Programming Course
-- 🥅 2021-2022 Goals: Become a professional in fullstack programming and dive right into the world of cryptocurrencies
-- 🔥 I don't only like Fullstack programming, I also love game development, 3d modeling, design and digital marketing and invest in different assets
 
 ## Connect with me:
 - 🐦[Twitter](https://twitter.com/Adaldiaz99) 
